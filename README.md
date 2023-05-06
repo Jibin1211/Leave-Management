@@ -15,10 +15,10 @@ The leave management solution is mostly used in educational institutions to subm
 - **Help:** Here the users can identify the types of leave available they can apply for and also how to apply for it.
 
 ## Objectives
-• Easy submission of leave form
-• fewer paper works and faster leave applying with lesser time to be spent.
-• Better Management
-• hassle-free
+- Easy submission of leave form
+- Fewer paper works and faster leave applying with lesser time to be spent.
+- Better Management
+- Hassle-free
 
 ## About the project
 
